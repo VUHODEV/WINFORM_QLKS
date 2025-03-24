@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|c:\\users\\admin\\downloads\\winform_doan\\winform_doan\\chuongtrinhquanlykhachsan\\chuongtrinhquanlykhachsan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|c:\\users\\admin\\downloads\\winform_doan\\winform_doan\\chuongtrinhquanlykhachsan\\chuongtrinhquanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|c:\\users\\admin\\downloads\\winform_doan\\winform_doan\\chuongtrinhquanlykhachsan\\chuongtrinhquanlykhachsan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\report\\rep_payment.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\report\\rep_payment.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|c:\\users\\admin\\downloads\\winform_doan\\winform_doan\\chuongtrinhquanlykhachsan\\chuongtrinhquanlykhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\report\\rep_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\report\\rep_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\report\\rep_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\report\\rep_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\report\\rep_payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\report\\rep_payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\report\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\report\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\chuongtrinhquanlykhachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6F0442C-6ECF-4540-9E3E-326798974649}|ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan.csproj|solutionrelative:chuongtrinhquanlykhachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__WINFORM_DOAN_CHUONGTRINHQUANLYKHACHSAN_CHUONGTRINHQUANLYKHACHSAN_DBMYHOTEL.MDF/True/SqlTable/dbo.customer.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\App.config",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\App.config",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\App.config",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-24T12:50:18.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Program.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:50:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\packages.config",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\packages.config",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\packages.config",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-24T12:50:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs",
+              "ViewState": "AgIAAEMAAAAAMzMzM3MvwEkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:07:24.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_CustomerDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerDetails.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:11:46.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\function.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\function.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\function.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\function.cs",
+              "ViewState": "AgIAAA0AAABQMzMzM7MiwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:10:16.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "REP_Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs",
+              "ToolTip": "C:\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:02:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "REP_Payment.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.rdlc",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.rdlc [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-01-08T09:58:37.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "REP_Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:03:05.816Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_CheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:09:11.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "REP_Payment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.Designer.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.Designer.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\Report\\REP_Payment.Designer.cs",
+              "ViewState": "AgIAACsAAACAzMzMzMwXwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:02:47.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\Payment.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\Report\\Payment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Report\\Payment.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\Report\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:58:11.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\Dashboard.cs",
+              "ToolTip": "C:\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:28:55.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_CustomerRes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs",
+              "ToolTip": "C:\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:11:52.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_employee.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_employee.cs",
+              "ToolTip": "C:\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_employee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:45:05.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_CustomerRes.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_CustomerRes.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:12:05.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_AddRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\WINFORM_DOAN\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKhachSan\\All User Control\\UC_AddRoom.cs",
+              "ToolTip": "C:\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_AddRoom.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\WINFORM_DOAN\\ChuongTrinhQuanLyKhachSan\\ChuongTrinhQuanLyKhachSan\\All User Control\\UC_AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:51:01.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.customer.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__WINFORM_DOAN_CHUONGTRINHQUANLYKHACHSAN_CHUONGTRINHQUANLYKHACHSAN_DBMYHOTEL.MDF/True/SqlTable/dbo.customer.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__WINFORM_DOAN_CHUONGTRINHQUANLYKHACHSAN_CHUONGTRINHQUANLYKHACHSAN_DBMYHOTEL.MDF/True/SqlTable/dbo.customer.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T04:11:11.243Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
